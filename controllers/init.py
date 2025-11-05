@@ -1,0 +1,3 @@
+from .financeiro_controller import FinanceiroController
+from .dividas_controller import DividasController
+from .dividas_pessoais_controller import DividasPessoaisController
