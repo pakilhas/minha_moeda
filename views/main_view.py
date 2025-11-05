@@ -22,7 +22,7 @@ class MainView:
         main_frame.rowconfigure(3, weight=1)
         
         # Título
-        titulo = ttk.Label(main_frame, text="💼 Controle Financeiro Minha Moeda v2.0", 
+        titulo = ttk.Label(main_frame, text="💼 Controle Financeiro Minha Moeda v1.2", 
                           font=('Arial', 18, 'bold'))
         titulo.grid(row=0, column=0, columnspan=3, pady=(0, 20))
         

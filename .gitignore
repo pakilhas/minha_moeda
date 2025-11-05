@@ -1,0 +1,8 @@
+/dist
+/data
+/build
+
+./data
+./dist
+
+./build
